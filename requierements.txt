@@ -1,0 +1,16 @@
+transformers
+sentence_transformers
+tf-keras
+hf_xet
+scikit-learn
+numpy
+torch
+openai
+azure-ai-inference
+dotenv
+faiss-cpu
+tree-sitter==0.20.4
+tree-sitter-languages==1.7.0
+datasets
+shortuuid
+google-genai

@@ -1,0 +1,12 @@
+.env
+
+/debug
+/TestcasesAnswers
+/Retriever/model
+/Scenario
+/Devign
+/Juliet
+
+test.py
+testrun_deving.py
+testrun_juliet.py
